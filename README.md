@@ -1,6 +1,5 @@
 # Typescript SandBox
 
-Compiling
 ```
 tsc es6.ts -w --target es6
 ```
